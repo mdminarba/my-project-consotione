@@ -1,0 +1,7 @@
+.background{
+    background: url(./assets/wp3049846-cricket-stadium-wallpapers.jpg) cover no-repeat center center;
+  
+  }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

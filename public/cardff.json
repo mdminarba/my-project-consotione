@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/wBnVcHC/IMG-20230729-WA0000.jpg",
+    "name": "Md Minar",
+    "age": 28,
+    "selari": 2020,
+    "home": " Panial Panial Pukur Nilphamari Mushrut Panial Panial Pukur"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/GPdTc5m/IMG20230103123009.jpg",
+    "name": "Md Miraz Mia",
+    "age": 51,
+    "selari": 5050,
+    "home": " kishorgonj Nilphamari Mushrut Panial "
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/YTV7YX9/IMG20230103123026.jpg",
+    "name": "Mizan mia",
+    "age": 44,
+    "selari": 2750,
+    "home": " kishorgonj NilphamariPanial Panial Pukur "
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/wKvzMtH/IMG20230103112717.jpg",
+    "name": "Riaz Ahmed",
+    "age": 23,
+    "selari": 2045,
+    "home": " kishorgonj Panial Panial Pukur "
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/vvYJMns/IMG20230103123009.jpg",
+    "name": "Md Minar",
+    "age": 52,
+    "selari": 2020,
+    "home": "Panial Panial Pukur  "
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/vvYJMns/IMG20230103123009.jpg",
+    "name": "Md Minar",
+    "age": 52,
+    "selari": 2020,
+    "home": "Panial Panial Pukur  Nilphamari Mushrut"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/vvYJMns/IMG20230103123009.jpg",
+    "name": "Md Minar",
+    "age": 52,
+    "selari": 2020,
+    "home": "Panial Panial Pukur  Nilphamari"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/vvYJMns/IMG20230103123009.jpg",
+    "name": "Md Minar",
+    "age": 52,
+    "selari": 2020,
+    "home": "Panial Panial Pukur  Nilphamari"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/vvYJMns/IMG20230103123009.jpg",
+    "name": "Md Minar",
+    "age": 52,
+    "selari": 2020,
+    "home": "Panial Panial Pukur  Nilphamari"
+  }
+
+
+]
